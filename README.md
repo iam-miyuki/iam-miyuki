@@ -8,7 +8,7 @@ Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche
 ## 🎯 Ce que je recherche
 
 🔎 Un **stage en développement web** (front, back ou fullstack)  
-📅 Disponible dès le 1er septembre 2025  
+📅 du 01/09/2025 au 28/10/2025 inclus
 🏙️ Lyon ou stage à distance  
 💡 Environnement souhaité : PHP, Symfony, Vue.js  
 

@@ -1,25 +1,25 @@
 # 👋 Bonjour ! Moi c’est Miyuki — Développeuse web en reconversion
 
-Depuis décembre 2024, je me suis lancée dans une reconversion vers le **développement web** avec motivation et enthousiasme.  
-Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche d’un **stage** pour ma première expérience professionnelle dans ce domaine.
+Depuis décembre 2024, je me suis lancée dans une reconversion vers le **développement web**, avec motivation et enthousiasme.  
+Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche d’un **stage** pour vivre ma première expérience professionnelle dans ce domaine.
 
 ---
 
 ## 🎯 Ce que je recherche
 
 🔎 Un **stage en développement web** (front, back ou fullstack)  
-📅 du 01/09/2025 au 28/10/2025 inclus
-🏙️ Lyon ou stage à distance  
+📅 Période : du 01/09/2025 au 28/10/2025 inclus  
+🏙️ Localisation : Lyon ou stage à distance  
 💡 Environnement souhaité : PHP, Symfony, Vue.js  
 
 ---
 
-## 💻 Compétences techniques
+## 💻 Compétences techniques (en cours d'apprentissage)
 
 - 🔤 HTML5 / CSS3 / Responsive design  
 - ⚙️ JavaScript (vanilla)  
 - 🔧 PHP / Symfony  
-- 🧱 Vue.js (Composition API, composants, props, etc.)  
+- 🧱 Vue.js  
 - 🗄️ MySQL  
 - 🛠️ Git / GitHub  
 
@@ -30,15 +30,15 @@ Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche
 - ✔️ Rigoureuse  
 - 🕐 Ponctuelle  
 - 💪 Persévérante  
-- 🚀 Grande volonté d’apprendre et de progresser  
+- 🚀 Envie constante d’apprendre et de progresser  
 - 🔥 Très motivée et impliquée
 
 ---
 
 ## 👣 Parcours
 
-🧭 **Reconversion démarrée en décembre 2024**  
-🎓 Formation diplômante “Développeur Web & Web Mobile” (titre professionnel niveau bac+2)
+🧭 **Reconversion entamée en décembre 2024**  
+🎓 Formation diplômante “Développeur Web & Web Mobile” (titre professionnel niveau Bac+2)
 
 ---
 
@@ -46,9 +46,9 @@ Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche
 
 Je serais ravie d’échanger avec vous !
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/miyuki-cherbal-b79887366)    
-- 📍 Basée à Lyon ou disponible à distance
+- 💼 [LinkedIn](https://www.linkedin.com/in/miyuki-cherbal-b79887366)  
+- 📍 Basée à Lyon — disponible également à distance
 
 ---
 
-Merci d’avoir lu jusqu’ici — au plaisir de discuter de votre projet ou de votre équipe ! 😊
+Merci d’avoir lu jusqu’ici — au plaisir d’échanger autour de vos projets ou de votre équipe ! 😊

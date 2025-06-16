@@ -46,7 +46,7 @@ Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche
 
 Je serais ravie d’échanger avec vous !
 
-- 📧 [mailtomiyuko@gmail.com](mailto:mailtomiyuko@gmail.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/miyuki-cherbal-b79887366)    
 - 📍 Basée à Lyon ou disponible à distance
 
 ---

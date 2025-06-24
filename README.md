@@ -40,7 +40,7 @@ Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche
 🧭 **Reconversion entamée en décembre 2024**  
 🎓 Formation diplômante “Développeur Web & Web Mobile” (titre professionnel niveau Bac+2)  
 💻 Actuellement, je développe un **site web complet de gestion de prêt de livres** pour une école japonaise, afin de mettre en pratique mes compétences en HTML, CSS, JavaScript, PHP et Symfony.  
-🔗 [Voir le projet Tosho sur GitHub](https://github.com/ton-utilisateur/nom-du-repository)
+🔗 [Voir le projet Tosho sur GitHub](https://github.com/iam-miyuki/tosho)
 
 ---
 

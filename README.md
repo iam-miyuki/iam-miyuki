@@ -16,12 +16,15 @@ Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche
 
 ## 💻 Compétences techniques (en cours d'apprentissage)
 
-- 🔤 HTML5 / CSS3 / Responsive design  
+- 🔤 HTML5 / CSS3 / Responsive design
+- 🎨 Tailwind
 - ⚙️ JavaScript (vanilla)  
 - 🔧 PHP / Symfony  
 - 🧱 Vue.js  
 - 🗄️ MySQL  
-- 🛠️ Git / GitHub  
+- 🛠️ Git / GitHub
+- 🐳 Docker
+  
 
 ---
 

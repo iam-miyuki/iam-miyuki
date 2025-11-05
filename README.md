@@ -1,7 +1,7 @@
-# 👋 Bonjour ! Moi c’est Miyuki — Développeuse web en reconversion
+# 👋 Hello !I'm Miyuki — Développeuse web en reconversion
 
 Depuis décembre 2024, je me suis lancée dans une reconversion vers le **développement web**, avec motivation et enthousiasme.  
-Actuellement en formation Développeur Web & Web Mobile, je suis à la recherche d’un **stage** pour vivre ma première expérience professionnelle dans ce domaine.
+Actuellement en formation Développeur Web & Web Mobile !.
 
 ---
 

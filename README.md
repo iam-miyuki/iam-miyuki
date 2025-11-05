@@ -1,59 +1,58 @@
-# 👋 Hello !I'm Miyuki — Développeuse web en reconversion
+# 🌸 Hello ! I'm Miyuki, Web Developer in Career Transition
 
-Depuis décembre 2024, je me suis lancée dans une reconversion vers le **développement web**, avec motivation et enthousiasme.  
-Actuellement en formation Développeur Web & Web Mobile !.
-
----
-
-## 🎯 Ce que je recherche
-
-🔎 Un **stage en développement web** (front, back ou fullstack)  
-📅 Période : du 01/09/2025 au 28/10/2025 inclus  
-🏙️ Localisation : Lyon ou stage à distance  
-💡 Environnement souhaité : PHP, Symfony, Vue.js  
+Since **December 2024**, I’ve embarked on a **career change to web development**, driven by motivation and enthusiasm.  
+I’m currently enrolled in a **Web & Mobile Web Developer** training program!
 
 ---
 
-## 💻 Compétences techniques (en cours d'apprentissage)
+## 🎯 What I’m Looking For
 
-- 🔤 HTML5 / CSS3 / Responsive design
-- 🎨 Tailwind
+🔎 A **web development internship** (front-end, back-end, or fullstack)  
+📅 **Period:** September 1st, 2025 – October 28th, 2025  
+🏙️ **Location:** Lyon or remote  
+💡 **Preferred tech stack:** PHP, Symfony, Vue.js  
+
+---
+
+## 💻 Technical Skills (in progress)
+
+- 🔤 HTML5 / CSS3 / Responsive Design  
+- 🎨 Tailwind  
 - ⚙️ JavaScript (vanilla)  
 - 🔧 PHP / Symfony  
 - 🧱 Vue.js  
 - 🗄️ MySQL  
-- 🛠️ Git / GitHub
-- 🐳 Docker
-  
+- 🛠️ Git / GitHub  
+- 🐳 Docker  
 
 ---
 
-## 🤝 Qualités humaines (Soft Skills)
+## 🤝 Soft Skills
 
-- ✔️ Rigoureuse  
-- 🕐 Ponctuelle  
-- 💪 Persévérante  
-- 🚀 Envie constante d’apprendre et de progresser  
-- 🔥 Très motivée et impliquée
-
----
-
-## 👣 Parcours
-
-🧭 **Reconversion commencé en décembre 2024, fin prévue en novembre 2025**  
-🎓 Formation diplômante “Développeur Web & Web Mobile” (titre professionnel niveau Bac+2)  
-💻 Actuellement, je développe un **site web complet de gestion de prêt de livres** pour mon projet final de la formation, afin de mettre en pratique mes compétences en HTML, CSS, JavaScript, PHP et Symfony.  
-🔗 [Voir le projet Tosho sur GitHub](https://github.com/iam-miyuki/tosho)
+- ✔️ Detail-oriented and organized  
+- 🕐 Punctual  
+- 💪 Persistent and committed  
+- 🚀 Always eager to learn and grow  
+- 🔥 Highly motivated and dedicated  
 
 ---
 
-## 📫 Me contacter
+## 👣 Background
 
-Je serais ravie d’échanger avec vous !
+🧭 **Career transition started in December 2024, expected to finish in November 2025**  
+🎓 Training: “Développer Web et Web Mobile”  
+💻 Currently developing a **complete web app for managing book loans** as my final project — applying HTML, CSS, JavaScript, PHP, and Symfony skills.  
+🔗 [View the Tosho project on GitHub](https://github.com/iam-miyuki/tosho)
+
+---
+
+## 📫 Get in Touch
+
+I’d love to connect and discuss potential opportunities!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/miyuki-cherbal-b79887366)  
-- 📍 Basée à Lyon — disponible également à distance
+- 📍 Based in Lyon — also open to remote work  
 
 ---
 
-Merci d’avoir lu jusqu’ici 😊
+Thanks for reading! 😊

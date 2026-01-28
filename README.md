@@ -17,7 +17,7 @@ Je suis actuellement à la recherche d'un **poste de développeuse junior**, et 
 - Capacité à **analyser, résoudre des problèmes et améliorer la qualité du code**  
 
 ## 📂 Projets
-- Développement d’une application web **de gestion de bibliothèque** : conception, développement, tests, mise en production et maintenance
+- Développement d’une application web **de gestion de bibliothèque** : conception, développement, tests, mise en production et maintenance : 
   [Tosho](https://www.tosho-books.fr/) 
 - Site web pour une association en **Vue.js** en cours.
 

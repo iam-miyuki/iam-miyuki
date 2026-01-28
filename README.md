@@ -1,14 +1,14 @@
-# Bonjour, je suis Miyuki 🌸
+# Bonjour, je suis Miyuki, développeuse full-stack 🌸
 
-Je suis développeuse full-stack récemment diplômée d'un **Bac+2 Développement Web et Web Mobile (DWWM)**   
+Développeuse full-stack récemment diplômée d'un **Bac+2 Développement Web et Web Mobile (DWWM)**   
 
 ## 🎯 Objectif
 Je suis actuellement à la recherche d'un **poste de développeuse junior**, et je suis également ouverte à **une alternance** pour continuer à apprendre et progresser dans un environnement professionnel.
 
 ## 💻 Compétences principales
 - Développement **full stack** : PHP, SQL, JavaScript, HTML, CSS  
-- Frameworks : **Symfony**, **Vue.js**, **React**, **Laravel**  
-- Outils : Git,GitHub, Docker, VSCode
+- Frameworks & Librairies : **Symfony**, **Vue.js**, **React**, **Laravel**, **NodeJs**, **Tailwind**, **Bootstrap**
+- Outils : Git,GitHub,GitLab, Docker, VSCode
 - Gestion complète d’un projet web : **de la conception à la mise en production et maintenance**
 
 ## 🌟 Points forts

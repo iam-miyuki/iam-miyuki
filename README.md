@@ -1,6 +1,6 @@
 # Bonjour, je suis Miyuki 🌸
 
-Je suis développeuse web récemment diplômée d'un **Bac+2 Développement Web et Web Mobile (DWWM)** à la CCI Formation Pro.  
+Je suis développeuse full-stack récemment diplômée d'un **Bac+2 Développement Web et Web Mobile (DWWM)**   
 
 ## 🎯 Objectif
 Je suis actuellement à la recherche d'un **poste de développeuse junior**, et je suis également ouverte à **une alternance** pour continuer à apprendre et progresser dans un environnement professionnel.
